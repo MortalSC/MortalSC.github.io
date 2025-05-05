@@ -1,0 +1,4 @@
+# _config.yml
+title: MortalSC 的技术笔记  # 自定义网站标题
+description: 每日学习与工作沉淀  # 网站描述
+theme: jekyll-theme-architect  # 指定主题
